@@ -7,7 +7,7 @@
   - A escolha dessas Stacks veio dos eventos que participei da :rocket: [RocketSeat][rocketseat]: 
     - [Semana Omnistack 10.0][omnistack10]
     - [Semana Omnistack 11.0][omnistack11] 
-    - [Next Level Week][nextlevelweek] 
+    - [Next Level Week 1][nextlevelweek1] 
 - 👯 Procuro colaborar em projetos que me ajudem a aprender
 - 🤔 Preciso de ajuda em meus "_projetos pequenos_" rsrs
 - 💬 Pergunte-me sobre música, bandas pouco conhecidas e sobre o que estou aprendendo
@@ -15,7 +15,7 @@
   - Github: [**castelogui**][github]
   - Insta: [**@castelo.gui**][insta]
   - LinkedIn: [**in/castelo-guilherme**][linkedin]
-  - Telegram: **(69) 984528875**
+  - Telegram: **(69) 984528875** | **@castelogui**
   - Gmail: **guilhermecastelo.mail@gmail.com**
 - ⚡ Curiosidades:
   - Dou aulas de música
@@ -24,7 +24,7 @@
 [rocketseat]: https://rocketseat.com.br/
 [omnistack10]: https://github.com/castelogui/Semana-OmniStack-10.0
 [omnistack11]: https://github.com/castelogui/Semana-OmniStack-11.0
-[nextlevelweek]: https://github.com/castelogui/next-level-week
+[nextlevelweek1]: https://github.com/castelogui/next-level-week
 [github]: https://github.com/castelogui
 [insta]: https://www.instagram.com/castelo.gui
 [linkedin]: https://www.linkedin.com/in/castelo-guilherme
