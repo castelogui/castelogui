@@ -15,7 +15,7 @@
   - Github: [**castelogui**][github]
   - Insta: [**@castelo.gui**][insta]
   - LinkedIn: [**in/castelo-guilherme**][linkedin]
-  - Telegram: **(69) 984528875** | **@castelogui**
+  - Telegram: **+55 69 999071519** | **@castelogui**
   - Gmail: **guilhermecastelo.mail@gmail.com**
 - ⚡ Curiosidades:
   - Dou aulas de música
