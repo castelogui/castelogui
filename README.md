@@ -11,7 +11,7 @@
   - Github: [**castelogui**][github]
   - Insta: [**@castelo.gui**][insta]
   - LinkedIn: [**in/castelo-guilherme**][linkedin]
-  - Rocketseat: [**me/guilhermecastelo**][https://app.rocketseat.com.br/me/guilhermecastelo]
+  - Rocketseat: [**me/guilhermecastelo**][rocketseat]
   - Gmail: **guilhermecastelo.mail@gmail.com**
   - Discord: **castelogui#2075**
 - ⚡ Curiosidades:
