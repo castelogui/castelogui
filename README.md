@@ -3,7 +3,7 @@
 - 😄 Me chame Guilherme Castelo e sou um aprendiz
 - 🔭 Estou desenvolvendo *pequenos projetos* para adquirir conhecimentos
 - :book: Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas no IFRO.
-- 🌱 Focando em backend com a stack: **NodeJS** com **Express**. 
+- 🌱 Focando desenvolvimento Web em backend, começando com Fluter e Python. 
 - 👯 Procuro colaborar em projetos que me ajudem a aprender
 - 🤔 Preciso de ajuda em meus "_projetos pequenos_" 
 - 💬 Pergunte-me sobre música, minhas dificuldades e sobre o que estou aprendendo
