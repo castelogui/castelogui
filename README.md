@@ -13,7 +13,6 @@
   - LinkedIn: [**in/castelo-guilherme**][linkedin]
   - Rocketseat: [**me/guilhermecastelo**][rocketseat]
   - Gmail: **guilhermecastelo.mail@gmail.com**
-  - Discord: **castelogui#2075**
 - ⚡ Curiosidades:
   - Dou aulas de música
   - Tenho uma bandinha chamada [**Codinome Central**][codinome]
