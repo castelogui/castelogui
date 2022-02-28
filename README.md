@@ -3,7 +3,7 @@
 - 😄 Me chame Guilherme Castelo e sou um aprendiz
 - 🔭 Estou desenvolvendo *pequenos projetos* para adquirir conhecimentos
 - :book: Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas no IFRO.
-- 🌱 Focando desenvolvimento Web em backend, começando com Fluter e Python. 
+- 🌱 Focando desenvolvimento Web, começando com Fluter. 
 - 👯 Procuro colaborar em projetos que me ajudem a aprender
 - 🤔 Preciso de ajuda em meus "_projetos pequenos_" 
 - 💬 Pergunte-me sobre música, minhas dificuldades e sobre o que estou aprendendo
@@ -15,7 +15,7 @@
   - Gmail: **guilhermecastelo.mail@gmail.com**
 - ⚡ Curiosidades:
   - Dou aulas de música
-  - Tenho uma bandinha chamada [**Codinome Central**][codinome]
+  - Tenho uma bandinha chamada [**Varandas**][codinome]
 
 [omnistack10]: https://github.com/castelogui/Semana-OmniStack-10.0
 [omnistack11]: https://github.com/castelogui/Semana-OmniStack-11.0
@@ -23,5 +23,5 @@
 [github]: https://github.com/castelogui
 [insta]: https://www.instagram.com/castelo.gui
 [linkedin]: https://www.linkedin.com/in/castelo-guilherme
-[codinome]: https://www.instagram.com/codinomecentral/
+[codinome]: https://www.instagram.com/bandavarandas/
 [rocketseat]: https://app.rocketseat.com.br/me/guilhermecastelo
