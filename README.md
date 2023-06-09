@@ -21,7 +21,6 @@
 
 ## Wakatime
 
-
 [![wakatime](https://wakatime.com/badge/user/b889ed60-65c5-4d75-a1e7-65c986b29d59.svg)](https://wakatime.com/@b889ed60-65c5-4d75-a1e7-65c986b29d59)
 
 <div align="center">
