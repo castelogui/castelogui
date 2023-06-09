@@ -1,27 +1,27 @@
-### Olá 👋
+# Olá! Me chamo Guilherme Castelo 🖐️
 
-- 😄 Me chame Guilherme Castelo e sou um aprendiz
-- 🔭 Estou desenvolvendo *pequenos projetos* para adquirir conhecimentos
-- :book: Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas no IFRO.
-- 🌱 Focando desenvolvimento Web, começando com Fluter. 
-- 👯 Procuro colaborar em projetos que me ajudem a aprender
-- 🤔 Preciso de ajuda em meus "_projetos pequenos_" 
-- 💬 Pergunte-me sobre música, minhas dificuldades e sobre o que estou aprendendo
-- 📫 Como me achar:
-  - Github: [**castelogui**][github]
-  - Insta: [**@castelo.gui**][insta]
-  - LinkedIn: [**in/castelo-guilherme**][linkedin]
-  - Rocketseat: [**me/guilhermecastelo**][rocketseat]
-  - Gmail: **guilhermecastelo.mail@gmail.com**
-- ⚡ Curiosidades:
-  - Dou aulas de música
-  - Tenho uma bandinha chamada [**Varandas**][codinome]
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=castelogui&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: radical)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=castelogui&show_icons=true&theme=radical" />
+</picture>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=castelogui&theme=radical&layout=donut"
+  media="(prefers-color-scheme: radical)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelogui&theme=radical&layout=donut" />
+</picture>
 
-[omnistack10]: https://github.com/castelogui/Semana-OmniStack-10.0
-[omnistack11]: https://github.com/castelogui/Semana-OmniStack-11.0
-[nextlevelweek1]: https://github.com/castelogui/next-level-week
-[github]: https://github.com/castelogui
-[insta]: https://www.instagram.com/castelo.gui
-[linkedin]: https://www.linkedin.com/in/castelo-guilherme
-[codinome]: https://www.instagram.com/bandavarandas/
-[rocketseat]: https://app.rocketseat.com.br/me/guilhermecastelo
+
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
