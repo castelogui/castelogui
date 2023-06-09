@@ -7,6 +7,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=castelogui&show_icons=true&theme=radical" />
 </picture>
+
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=castelogui&theme=radical&layout=donut"
@@ -15,6 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelogui&theme=radical&layout=donut" />
 </picture>
 
+[![wakatime](https://wakatime.com/badge/user/b889ed60-65c5-4d75-a1e7-65c986b29d59.svg)](https://wakatime.com/@b889ed60-65c5-4d75-a1e7-65c986b29d59)
 
 ## Tecnologias que eu uso no meu dia
 
