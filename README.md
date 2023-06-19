@@ -1,6 +1,32 @@
+<div align="center">
+  
 # Olá! Me chamo Guilherme Castelo 🖐️
 
+</div>
+
 <div align="center">
+  <p align="left">Entre em contato comigo por: ⤵️</p>
+  
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</div>  
+
+---
+
+<div align="center">
+  <p align="left">Linguagens do dia a dia:</p>
   <div style="display: inline_block;">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -12,26 +38,25 @@
 
 <div align="center">
   
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=castelogui&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Guilherme Castelo's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelogui&layout=donut&theme=radical&hide_border=true" /> |
-| ------------- | ------------- |
-| <div align="center"><img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=castelogui&show_icons=true&locale=en&layout=compact&theme=radical&line_height=1"/></div> | <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=castelogui&theme=radical"/> |
- 
-</div>
+  | Meu Desempenho | Linguagens mais Utilizadas|  
+  | ------------- | ------------- |
+  | <img height="260em" align="center" src="https://github-readme-stats.vercel.app/api?username=castelogui&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Guilherme Castelo's GitHub Stats" /> | <img height="260em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelogui&layout=donut&theme=radical&hide_border=true&langs_count=7" /> |
+
+  ---
+  
+  | Evolução Anual | Resumo|  
+  | ------------- | ------------- |
+  | <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=castelogui&theme=radical"/> | <img height="158em" src="https://github-readme-streak-stats.herokuapp.com/?user=castelogui&show_icons=true&theme=radical"/> |
+
 
 ---
 
-<div align="center">
-  
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b889ed60-65c5-4d75-a1e7-65c986b29d59&theme=radical)](https://github.com/castelogui)
-  
-[![wakatime](https://wakatime.com/badge/user/b889ed60-65c5-4d75-a1e7-65c986b29d59.svg)](https://wakatime.com/@b889ed60-65c5-4d75-a1e7-65c986b29d59)
+  | Desempenho da Semana <p> [![wakatime](https://wakatime.com/badge/user/b889ed60-65c5-4d75-a1e7-65c986b29d59.svg)](https://wakatime.com/@b889ed60-65c5-4d75-a1e7-65c986b29d59) </p>  | Recently Played |
+  | ------------- | ------------- |
+  | <img height="340em" src="https://github-readme-stats.vercel.app/api/wakatime?username=b889ed60-65c5-4d75-a1e7-65c986b29d59&theme=radical"/> | <img height="340em" src="https://spotify-recently-played-readme.vercel.app/api?user=226q3htkrtbfkcghmhn65fmpy&count=6"/>  |
 
 </div>
+
 
 ---
     
-<div align="center">
-
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=226q3htkrtbfkcghmhn65fmpy)
-
-</div>
