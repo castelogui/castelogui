@@ -57,6 +57,12 @@
 
 </div>
 
-
 ---
-    
+
+<div align="center">
+
+  | Roadmap |
+  | -------- |
+  | <a href="https://roadmap.sh"><img height="340em" src="https://api.roadmap.sh/v1-badge/wide/6499d1c5d99c9d6731981e1a?variant=dark" alt="roadmap.sh"/></a> |
+
+</div>
