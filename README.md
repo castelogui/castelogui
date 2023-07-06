@@ -4,9 +4,7 @@
 
 </div>
 
-<div align="center">
-  <p align="left">Entre em contato comigo por: ⤵️</p>
-  
+<div align="center">  
   <a href="mailto:guilhermecastelo.mail@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=guilhermecastelo.mail@gmail.com" /></a>
 
@@ -23,10 +21,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/castelo.gui/"/></a>
 </div>  
 
----
-
 <div align="center">
-  <p align="left">Linguagens do dia a dia:</p>
   <div style="display: inline_block;">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
