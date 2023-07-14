@@ -46,18 +46,8 @@
 
 ---
 
-  | Desempenho da Semana <p> [![wakatime](https://wakatime.com/badge/user/b889ed60-65c5-4d75-a1e7-65c986b29d59.svg)](https://wakatime.com/@b889ed60-65c5-4d75-a1e7-65c986b29d59) </p>  | Recently Played |
-  | ------------- | ------------- |
-  | <img height="340em" src="https://github-readme-stats.vercel.app/api/wakatime?username=b889ed60-65c5-4d75-a1e7-65c986b29d59&theme=radical"/> | <img height="340em" src="https://spotify-recently-played-readme.vercel.app/api?user=226q3htkrtbfkcghmhn65fmpy&count=6"/>  |
-
-</div>
-
----
-
-<div align="center">
-
-  | Roadmap |
-  | -------- |
-  | <a href="https://roadmap.sh"><img height="340em" src="https://api.roadmap.sh/v1-badge/wide/6499d1c5d99c9d6731981e1a?variant=dark" alt="roadmap.sh"/></a> |
+  | Roadmap | Desempenho da Semana | Recently Played |
+  | ------------- | ------------- | ------------- |
+  | <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6499d1c5d99c9d6731981e1a?variant=dark" alt="roadmap.sh"/></a> | <div align="center"> <img height="340em" src="https://github-readme-stats.vercel.app/api/wakatime?username=b889ed60-65c5-4d75-a1e7-65c986b29d59&theme=radical"/> <p> [![wakatime](https://wakatime.com/badge/user/b889ed60-65c5-4d75-a1e7-65c986b29d59.svg)](https://wakatime.com/@b889ed60-65c5-4d75-a1e7-65c986b29d59) </p> </div>| <img height="340em" src="https://spotify-recently-played-readme.vercel.app/api?user=226q3htkrtbfkcghmhn65fmpy&count=6"/> | 
 
 </div>
