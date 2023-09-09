@@ -43,8 +43,8 @@
 <br/>
 <br/>
 <div style="display: flex;">
- <img height="190rem" src="https://github-readme-stats.vercel.app/api?username=castelogui&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Guilherme Castelo's GitHub Stats" /> 
- <img height="190rem" src="https://github-readme-streak-stats.herokuapp.com/?user=castelogui&show_icons=true&theme=radical"/> 
+ <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=castelogui&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Guilherme Castelo's GitHub Stats" /> 
+ <img height="170rem" src="https://github-readme-streak-stats.herokuapp.com/?user=castelogui&show_icons=true&theme=radical"/> 
 </div>
 
 <p align="center">
