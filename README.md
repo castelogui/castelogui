@@ -21,6 +21,6 @@
 <img  width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=castelogui&show_icons=true&theme=radical"/> 
 
 <div align="right">
-  <img height="340em" src="https://spotify-recently-played-readme.vercel.app/api?user=226q3htkrtbfkcghmhn65fmpy&count=6"/> 
+  <img width="360em" src="https://spotify-recently-played-readme.vercel.app/api?user=226q3htkrtbfkcghmhn65fmpy&count=6"/> 
 </div>
 
