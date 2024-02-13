@@ -30,7 +30,7 @@
 ![](https://komarev.com/ghpvc/?username=castelogui)
 
 🇧🇷 Living in Brazil - RO <br>
-:man_technologist: Frontend Developer <br>
+:man_technologist: Fullstack Developer <br>
 💻 Analysis And Systems Development
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/castelo-guilherme/)](https://www.linkedin.com/in/castelo-guilherme/)
