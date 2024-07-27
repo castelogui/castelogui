@@ -37,7 +37,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5569999071519)](https://api.whatsapp.com/send?phone=5569999071519)
 
 <p align="center">
-  <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=castelogui&show_icons=true&include_all_commits=true&show_icons=true&theme=radical#gh-dark-mode-only&hide_border=true" alt="Guilherme Castelo's GitHub Stats" /> 
+  <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=castelogui&show_icons=true&include_all_commits=false&show_icons=true&theme=radical#gh-dark-mode-only&hide_border=true" alt="Guilherme Castelo's GitHub Stats" /> 
  <img height="165rem" src="https://github-readme-streak-stats.herokuapp.com/?user=castelogui&show_icons=true&theme=radical"/> 
 </p>
 
