@@ -37,8 +37,9 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5569999071519)](https://api.whatsapp.com/send?phone=5569999071519)
 
 <div align="center" >
- <img height="220m" src="https://github-readme-stats.vercel.app/api?username=castelogui&show_icons=true&include_all_commits=false&show_icons=true&theme=radical#gh-dark-mode-only&hide_border=true" alt="Guilherme Castelo's GitHub Stats" /> 
- <img height="220rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelogui&hide_progress=false&show_icons=true&theme=radical" alt="Guilherme Castelo's GitHub Stats"/> 
+ <img height="170m" src="https://github-readme-stats.vercel.app/api?username=castelogui&show_icons=true&include_all_commits=false&show_icons=true&theme=radical#gh-dark-mode-only&hide_border=true" alt="Guilherme Castelo's GitHub Stats" /> 
+ <img height="170rem" src="https://github-readme-streak-stats.herokuapp.com?user=castelogui&theme=radical&locale=pt_BR" alt="Guilherme Castelo's GitHub Stats"/> 
+ <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castelogui&hide_progress=false&show_icons=true&theme=radical" alt="Guilherme Castelo's GitHub Stats"/> 
  <img height="300rem" src="https://github-readme-activity-graph.vercel.app/graph?username=castelogui&bg_color=141321&color=a9fef7&line=ff47f3&point=ffffff&area=true&hide_border=true" alt="Guilherme Castelo's GitHub Stats"/>
 </div>
 
